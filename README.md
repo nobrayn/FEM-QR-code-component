@@ -14,10 +14,12 @@ I've been knee-deep in learning React that it was nice to go back and code somet
 
 ### Screenshots
 
-Desktop:
-![](./images/preview-desktop.png)
+#### Desktop:
 
-![Mobile:](./images/preview-mobile.png)
+![](./images/preview-desktop.png)
+#### Mobile:
+
+![](./images/preview-mobile.png)
 
 ### Links
 
